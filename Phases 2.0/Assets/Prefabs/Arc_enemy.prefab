@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 212013721508900508}
   - component: {fileID: 60301154347100636}
   m_Layer: 0
-  m_Name: Arc
+  m_Name: Arc_enemy
   m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
